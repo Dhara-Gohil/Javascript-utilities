@@ -1,0 +1,27 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+jspm_packages/
+
+# VS Code settings
+.vscode/
+
+# Environment variables
+.env
+
+# Build files
+dist/
+build/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Cache
+.cache/
