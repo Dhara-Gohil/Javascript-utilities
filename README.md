@@ -5,18 +5,23 @@ A collection of essential JavaScript utilities, including a currency converter, 
 
 1. **Currency Converter**  
    Convert between different currencies using real-time exchange rates.
+   ![Screenshot](Screenshots/curr_con.png)
 
 2. **Countdown Timer**  
    Set a timer to count down to a specific date and time.
+   ![Screenshot](Screenshots/Countdown.png)
 
 3. **Quiz Game**  
    A fun, interactive quiz with multiple-choice questions.
+   ![Screenshot](Screenshots/Quiz_app.png)
 
 4. **Random Color Generator**  
    Generate random colors with hex codes for design inspiration.
+   ![Screenshot](Screenshots/colo_gen.png)
 
 5. **Password Generator**  
    Create strong, random passwords with customizable options.
+   ![Screenshot](Screenshots/pass_gen.png)
 
 ## How to Use
 
