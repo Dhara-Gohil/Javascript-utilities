@@ -21,7 +21,7 @@ A collection of essential JavaScript utilities, including a currency converter, 
 
 5. **Password Generator**  
    Create strong, random passwords with customizable options.
-   ![Screenshot](Screenshots/pass_gen.png)
+   ![Screenshot](Screenshots/Pass_gen.png)
 
 ## How to Use
 
